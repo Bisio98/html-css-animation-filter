@@ -10,7 +10,7 @@
 }
 
 .ex-1-square{
-    transition: 2s;
+    transition: background-color 2s;
 }
 
 /* ----- */
@@ -28,7 +28,7 @@
 }
 
 .ex-2-square{
-    transition: 2s;
+    transition: width 2s;
 }
 
 /* ----- */
@@ -46,7 +46,7 @@
 }
 
 .ex-3-square{
-    transition: 1s;
+    transition: border-radius  1s;
 }
 
 /* ----- */
@@ -64,7 +64,7 @@
 }
 
 .ex-4-square{
-    transition: 2s;
+    transition: opacity 2s;
 }
 
 /* ----- */
@@ -87,7 +87,7 @@
 }
 
 .ex-5-square{
-    transition: 1s;
+    transition: transform 1s;
 }
 
 /* ---- */
@@ -111,7 +111,7 @@
 }
 
 .ex-7-img{
-    transition: 1s;
+    transition: filter 1s;
 }
 
 /* ----- */
@@ -125,7 +125,7 @@
 }
 
 .ex-8-img{
-    transition: 1s;
+    transition: all 1s;
 }
 
 /* ----- */
@@ -145,7 +145,7 @@
 }
 
 .ex-9-img{
-    transition: 2s;
+    transition: all 2s;
 }
 
 /* ----- */
